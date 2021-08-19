@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=YB73)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YB73)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YB73&theme=radical)](https://git.io/streak-stats)
 
                                                            Languages and Tools:
 <p align="center">
