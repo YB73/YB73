@@ -7,14 +7,12 @@
 Here are some ideas to get you started:
 
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on Flutter and ML
 - 🌱 I’m currently learning Django, Competitive Programming and ML
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👯 I’m looking to collaborate on Data Science 
+- 🤔 I’m looking for help with Backend Development
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: You cannot see with your eyes closed xD
 -->
 ![Github stats](https://github-readme-stats.vercel.app/api?username=YB73)
 
@@ -27,6 +25,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt="Django" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/numpy/numpy/7e7f4adab814b223f7f917369a72757cd28b10cb/branding/icons/numpylogo.svg" alt="NumPy" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/raghavTinker/raghavTinker/blob/main/Logos/jupyter.png?raw=true" alt="Jupyter Notebook" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 
