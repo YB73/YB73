@@ -3,10 +3,15 @@
 
 
 🔭 I’m currently working on Flutter and ML
+
 🌱 I’m currently learning Django, Competitive Programming and ML
+
 👯 I’m looking to collaborate on Data Science 
+
 🤔 I’m looking for help with Backend Development
+
 😄 Pronouns: She/Her
+
 ⚡ Fun fact: You cannot see with your eyes closed xD
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=YB73)
