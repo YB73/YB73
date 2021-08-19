@@ -14,7 +14,7 @@
 
 ⚡ Fun fact: You cannot see with your eyes closed xD
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=YB73)
+![Github stats](https://github-readme-stats.vercel.app/api?username=YB73&theme=radical)
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YB73&theme=radical&fire=purple&ring=purple)](https://git.io/streak-stats)
