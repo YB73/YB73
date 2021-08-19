@@ -2,13 +2,13 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=YB73.YB73)
 
 
-🔭 I’m currently working on Flutter and ML
+🔭 I’m currently working on Django and ML
 
-🌱 I’m currently learning Django, Competitive Programming and ML
+🌱 I’m currently learning Flutter, Competitive Programming and ML
 
-👯 I’m looking to collaborate on Data Science 
+👯 I’m looking to collaborate on Flutter 
 
-🤔 I’m looking for help with Backend Development
+🤔 I’m looking for help with Flutter amd Data Science 
 
 😄 Pronouns: She/Her
 
