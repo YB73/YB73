@@ -6,10 +6,15 @@
 <h3 align="center">Computer engineering undergrad at TIET.</h3>
 
 -🔭 I’m currently working on Django and ML
+
 -🌱 I’m currently learning Flutter, Competitive Programming and ML
+
 -👯 I’m looking to collaborate on Flutter 
+
 -🤔 I’m looking for help with Flask amd Flutter 
+
 -😄 Pronouns: She/Her
+
 -⚡ Fun fact: You cannot see with your eyes closed xD
 
 
@@ -28,7 +33,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YB73&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YB73&theme=dark&hide_border=true&fire=DD2727)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YB73&theme=dark&hide_border=true&theme=radical)](https://git.io/streak-stats)
   
   
 ![Github stats](https://github-readme-stats.vercel.app/api?username=YB73&theme=radical)
