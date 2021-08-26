@@ -9,9 +9,9 @@
 
 -🌱 I’m currently learning Flutter, Competitive Programming and ML
 
--👯 I’m looking to collaborate on Flutter 
+-👯 I’m looking to collaborate on Django 
 
--🤔 I’m looking for help with Flask and Flutter 
+-🤔 I’m looking for help with Flask  
 
 -😄 Pronouns: She/Her
 
