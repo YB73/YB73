@@ -11,7 +11,7 @@
 
 -👯 I’m looking to collaborate on Flutter 
 
--🤔 I’m looking for help with Flask amd Flutter 
+-🤔 I’m looking for help with Flask and Flutter 
 
 -😄 Pronouns: She/Her
 
