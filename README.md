@@ -31,9 +31,6 @@
 <p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YB73&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YB73&theme=dark&hide_border=true&theme=radical)](https://git.io/streak-stats)
   
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YB73&theme=prussian&hide_border=true)](https://git.io/streak-stats)
