@@ -7,7 +7,7 @@
 
 -🔭 I’m currently working on Django and ML
 
--🌱 I’m currently learning Flutter, Competitive Programming and ML
+-🌱 I’m currently learning Flask, Competitive Programming and ML
 
 -👯 I’m looking to collaborate on Django 
 
