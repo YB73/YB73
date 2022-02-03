@@ -1,9 +1,4 @@
-
-
-
-
-<h1 align="center">Hi 👋, I'm Yuvanna Bawa</h1>
-<h3 align="center">Computer engineering undergrad at TIET.</h3>
+### Hi there, I'm Yuvanna Bawa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 -🔭 I’m currently working on Django and ML
 
