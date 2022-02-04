@@ -1,6 +1,8 @@
 ### Hi there, I'm Yuvanna Bawa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=YB73.YB73)
+### Glad to see you here! &nbsp; !
+
+<img align="right" alt="GIF" src="https://github.com/YB73/YB73/blob/main/Coding%20Gif.gif?raw=true" width="408" height="318" />
 
 -🔭 I’m currently working on Django and ML
 
