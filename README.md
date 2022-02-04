@@ -1,8 +1,10 @@
- ### <hr align = "center"> Hi there, I'm Yuvanna Bawa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </hr>
+ ###  Hi there, I'm Yuvanna Bawa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
 ---
 
-### Glad to see you here! &nbsp; 
+<p align = "center"> An upcoming CS graduate from India </p>
+
+---
 
 <img align="right" alt="GIF" src="https://github.com/YB73/YB73/blob/main/Coding%20Gif.gif?raw=true" width="408" height="318" />
 
