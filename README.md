@@ -1,5 +1,7 @@
 ### Hi there, I'm Yuvanna Bawa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+---
+
 ### Glad to see you here! &nbsp; 
 
 <img align="right" alt="GIF" src="https://github.com/YB73/YB73/blob/main/Coding%20Gif.gif?raw=true" width="408" height="318" />
@@ -22,6 +24,8 @@
   <img src="https://github.com/raghavTinker/raghavTinker/blob/main/Logos/jupyter.png?raw=true" alt="Jupyter Notebook" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-lockup-bg.jpg" alt="Flutter" width="55" height="55"/>
 </p>
+
+---
 <p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YB73&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
