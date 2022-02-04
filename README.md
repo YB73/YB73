@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on Django and ML
 - 🌱 I’m currently learning Flask, Competitive Programming and ML
 - 👯 I’m looking to collaborate on Django and Deep Learning
-- 🤔 I’m looking for help with Recommender Systems
+- 🤔 I’m looking for help with Recommender Systems and Neural Networks
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: You cannot see with your eyes closed xD
 
