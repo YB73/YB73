@@ -1,9 +1,9 @@
  ###  Hi there, I'm Yuvanna Bawa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
 ---
-
-<p align = "center"> <h2> An upcoming CS graduate from India </h2> </p>
-
+<h2>
+<p align = "center"> An upcoming CS graduate from India  </p>
+</h2>
 ---
 
 <img align="right" alt="GIF" src="https://github.com/YB73/YB73/blob/main/Coding%20Gif.gif?raw=true" width="408" height="318" />
