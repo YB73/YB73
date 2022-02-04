@@ -2,7 +2,7 @@
 
 ---
 
-<p align = "center"> An upcoming CS graduate from India </p>
+<p align = "center"> <h2> An upcoming CS graduate from India </h2> </p>
 
 ---
 
