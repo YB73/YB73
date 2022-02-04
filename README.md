@@ -2,7 +2,6 @@
 <p align = "center"> Hi there, I'm Yuvanna Bawa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </p>
 </h1>
 
----
 <h2>
 <p align = "center"> An upcoming CS graduate from India  </p>
 </h2>
