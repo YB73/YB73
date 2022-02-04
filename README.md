@@ -1,4 +1,4 @@
-<hr align = "center"> ### Hi there, I'm Yuvanna Bawa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </hr>
+ ### <hr align = "center"> Hi there, I'm Yuvanna Bawa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </hr>
 
 ---
 
