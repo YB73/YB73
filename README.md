@@ -14,31 +14,7 @@
 - ⚡ Fun fact: You cannot see with your eyes closed xD
 
 </br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<p align="center">
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
@@ -48,7 +24,7 @@
   <img src="https://github.com/raghavTinker/raghavTinker/blob/main/Logos/jupyter.png?raw=true" alt="Jupyter Notebook" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-lockup-bg.jpg" alt="Flutter" height="40" style="vertical-align:top; margin:4px">
 </p>
-
+</p>
 <p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YB73&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
