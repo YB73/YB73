@@ -12,7 +12,7 @@
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working on EDA and ML
+- 🔭 I’m currently working on DL and ML
 - 🌱 I’m currently learning Flask, Competitive Programming and ML
 - 👯 I’m looking to collaborate on Django and Deep Learning
 - 🤔 I’m looking for help with Recommender Systems and Neural Networks
