@@ -1,5 +1,5 @@
  <h1>
-<p align = "right"> Hi there, I'm Yuvanna Bawa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </p>
+<p align = "center"> Hi there, I'm Yuvanna Bawa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </p>
 </h1>
 
 <h2>
@@ -8,7 +8,6 @@
 
 
 
-<img align="right" alt="GIF" src="https://github.com/YB73/YB73/blob/main/Coding%20Gif.gif?raw=true" width="408" height="318" />
 
 **Talking about Personal Stuffs:**
 
@@ -18,6 +17,8 @@
 - 🤔 I’m looking for help with Recommender Systems and Neural Networks
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: You cannot see with your eyes closed xD
+
+<img align="right" alt="GIF" src="https://github.com/YB73/YB73/blob/main/Coding%20Gif.gif?raw=true" width="408" height="318" />
 
 </br>
 <h3>
