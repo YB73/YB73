@@ -12,3 +12,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about **C++, Python, Maths**
 - 📫 How to reach me **ybawa_be20@thapar.edu**
 - ⚡ Fun fact: You can't see with your eyes closed! :P
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
