@@ -7,8 +7,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi , I'm Yuvanna Bawa</h1>
 <h3 align="center">A pre final year CS graduate.</h3>
 
-- 🔭 I’m currently working on - ML, DL and DSA 
+- 🔭 I’m working on **Data Science and DSA**
 - 🌱 I’m currently learning **Tensorflow, ML, DSA**
+- 💞️ I’m looking to collaborate on Data Science Projects and ML based Projects
 - 💬 Ask me about **C++, Python, Maths**
 - 📫 How to reach me **ybawa_be20@thapar.edu**
 - ⚡ Fun fact: You can't see with your eyes closed! :P
