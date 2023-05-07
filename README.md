@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 <h3 align="center">A pre final year CS graduate.</h3>
 
 - 🔭 I’m working on **Data Science and DSA**
-- 🌱 I’m currently learning **Tensorflow, ML, DSA**
-- 💞️ I’m looking to collaborate on Data Science Projects and ML based Projects
+- 🌱 I’m currently learning **Tensorflow, ML, DL, Transformers and DSA**
+- 💞️ I’m looking to collaborate on Data Science Projects and ML/DL based Projects. Check out my <a href="https://www.kaggle.com/yuvannabawa"> Kaggle </a>.
 - 💬 Ask me about **C++, Python, Maths**
 - 📫 How to reach me **ybawa_be20@thapar.edu**
 - ⚡ Fun fact: You can't see with your eyes closed! :P
