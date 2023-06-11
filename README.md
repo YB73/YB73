@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 -->
 <h1 align="center">Hola Amigos 👋 , I'm Yuvanna Bawa</h1>
-<h3 align="center">A pre final year CS graduate.</h3>
+<h3 align="center">A final year CS graduate.</h3>
 
 - 🔭 I’m working on **Data Science and DSA**
 - 🌱 I’m currently learning **Tensorflow, ML, DL, Transformers and DSA**
